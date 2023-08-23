@@ -1,0 +1,136 @@
+<html>
+    <head>
+        <title> </title>
+        <link rel=""> 
+    </head>
+    <body>
+        <header>
+            <h1 class="logo"> Магазин комп'ютерних ігор </h1>
+            <nav>
+             <a class="nav-link" href="#info">ПРО НАС</a>
+             <a class="nav-link" href="#catalog">КАТАЛОГ</a>
+             <a class="nav-link" href="#recall">ВІДГУКИ</a>
+             <a class="nav-link" href="#contacts">АДРЕСА</a>
+             <a class="nav-link" href="#footer">КОНТАКТИ</a>
+            </nav>
+        </header>
+        <main>
+            <section id="info" class="info">
+                <article class="info-text">
+                    <h1>Про нас</h1>
+                    <p> Ми пропонуємо близько 
+30 000 ігор набудь-який смак, а також  ексклюзивні пропозициї, автоматичне оновлення ігор та інші чудові можливості.</p>
+                </article>
+                <img class="info-img" src="folder/1.png"/>
+                
+            </section>
+    
+            <section id="catalog" class="catalog">
+                <h2>Каталог</h2>
+                <div class="all-divs">
+                <div class="catalog-div">
+                <img class="catalog-img" src="folder/2.png"/>
+                <article class="catalog-info">
+                <h3>Cyberpunk2077</h3>
+                <p class="catalog-text">Відеогра в жанрі action RPG в стилі кіберпанку,Гра починається в різних місцях, залежно від обраного минулого Ві. Після першого зіткнення з кримінальним світом Найт-Сіті, Ві в усіх варіантах знайомиться з найманцем Джекі Веллсом, і вони товаришують.</p>
+                <p class="sallary">1099 грн</p>
+                <a class="order" href="">КУПИТИ</a>
+                </article>
+                </div>
+                
+                <div class="catalog-div">
+                <img class="catalog-img" src="folder/3.png"/>
+                <article class="catalog-info">
+                <h3>Hogwarts legacy</h3>
+                <p class="catalog-text">Відеогра в жанрі рольового бойовика,оповідає про вихованця Гоґвортської школи чарів і чаклунства, який перебуває на п'ятому році свого навчання й повертається до школи після того, як виживає в загадковому інциденті.</p>
+                <p class="sallary">799 грн</p>
+                <a class="order" href="">КУПИТИ</a>
+                </article>
+                </div>
+                
+                <div class="catalog-div">
+                <img class="catalog-img" src="folder/4.png"/>
+                <article class="catalog-info">
+                <h3>Five nights at freddy’s 
+security breach</h3>
+                <p class="catalog-text">У ролі головного героя виступить маленький хлопчик на ім'я Грегорі, від імені якого показаний трейлер гри Сюжет буде зав'язаний навколо Ванесси — дівчини в костюмі білого кролика .</p>
+                <p class="sallary">479 грн</p>
+                <a class="order" href="">КУПИТИ</a>
+                </article>
+                </div>
+                
+                <div class="catalog-div">
+                <img class="catalog-img" src="folder/5.jpg"/>
+                <article class="catalog-info">
+                <h3>Slime Rancher</h3>
+                <p class="catalog-text">Slime Rancher это рассказ o Беатрикс ЛёБо, об отважном молодом фермере, которая решает провести всю оставшуюся жизнь на планете «Беспредельное Запределье», что находится тысячи световых лет от Земли.</p>
+                <p class="sallary">69 грн</p>
+                <a class="order" href="">КУПИТИ</a>
+                </article>
+                </div>
+                
+                <div class="catalog-div">
+                <img class="catalog-img" src="folder/6.jpg"/>
+                <article class="catalog-info">
+                <h3>Wallpaper Engine</h3>
+                <p class="catalog-text">Устанавливайте шикарные живые обои на рабочий стол. Анимируйте собственные изображения для создания новых обоев или импортируйте видео/веб-сайты и делитесь ими в Мастерской Steam!
+</p>
+                <p class="sallary">79 грн</p>
+                <a class="order" href="">КУПИТИ</a>
+                </article>
+                </div>
+             
+                <div class="catalog-div">
+                <img class="catalog-img" src="folder/7.jpg"/>
+                <article class="catalog-info">
+                <h3>Borderlands 3</h3>
+                <p class="catalog-text">Всеми любимый «шутер с базиллионами лута» возвращается! Действуя в одиночку или в компании друзей, вы должны будете спасти свой дом от безжалостных психопатов, возглавляющих самую опасную секту в галактике.</p>
+                <p class="sallary">212 грн</p>
+                <a class="order" href="">КУПИТИ</a>
+                </article>
+                </div>
+                </div>
+              
+            <section id="recall" class="recall"> 
+                <h2>Відгуки</h2>
+                <article class="recall-div">
+                    <img class="recall-img" src="folder/8.png">
+                   <p>Це майже найбільший інтернет майданчик ігор тут зібрано понад 30000 ігор. Вони самі утворили 10 ігор. Цілий рік тут відбуваються розпродажі ігор, на деякі свята дають подарунки: стікери, фони профілю, фони міні-профілю та рамки. Також можна запрошувати своїх друзів та додавати їх до груп та спілкуватися стікерами. За кожну покупку гри можна отримати окуляри, які можна поміняти на стікери, фони профілю, фони міні-профілю та рамки. Якщо ти хочеш зробити подарунок будь-кому ти можеш купити подарунковий сертифікат та подарувати його. Якщо отримати нагороди в грі, то їх можна продати і купити щось інше. Всім удачі та всього хорошого.</p>
+                </article>
+                <article class="recall-div">
+                    <img class="recall-img" src="folder/9.png">
+                    <p>Компанія допомагає геймерам, адже майже всі ігри зібрані там. І їх можна купити та запускати через цю програму.
+У програмі присутні знижки, конкурси та різноманітні акції. Вони мають свій торговий майданчик, де можна продавати предмети з їхніх ігор, таких як: Dota 2, Team Fortress 2, Counter Strike global offensive, Warframe. і сам майданчик.</p>
+                </article>
+            </section>
+            <section id="contacts" class="contacts">
+                <h2>Де нас знайти?</h2>
+                <div class="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1282.220983675368!2d36.23462023746399!3d50.00307083470851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a0e751d71c95%3A0x69522c0f7a2bb3a0!2z0LLRg9C70LjRhtGPINCh0YPQvNGB0YzQutCwLCA2MCwg0KXQsNGA0LrRltCyLCDQpdCw0YDQutGW0LLRgdGM0LrQsCDQvtCx0LvQsNGB0YLRjCwgNjEwMDA!5e0!3m2!1suk!2sua!4v1692795862914!5m2!1suk!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </section>
+            <div class="contacts-div">
+            <h2>Адреси</h2>
+            <p>Місто Київ<br>вулю Незалежності 34</p>
+             <p>Місто Харків<br>вул.Сумьска 60</p>
+              <p>Місто Львів<br>вул. Богдана Хмельницького 14</p>
+        </div>
+            </section>  
+        </main>
+        <footer id="footer">
+            <div class="phone">
+            <p class="phone-number"> Номер телефону</p>
+            <p>+38 044 461 8061</p>
+            </div>
+            <div class="footer-info">
+                <p>Соц. мережі</p>
+                <div class="image-left">
+                    <img src="folder/10.jpg"/>
+                </div>
+                <div class="image-right">
+                    <img src="folder/11.jpg"/>
+                </div>
+            </div>
+        </footer> 
+    </body>
+</html>
